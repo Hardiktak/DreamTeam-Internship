@@ -63,4 +63,4 @@ A minimal, fast temperature forecasting model that works well for short-term pre
 git clone https://github.com/your-username/temperature-prediction.git
 cd temperature-prediction
 pip install -r requirements.txt
-jupyter notebook notebooks/Task-1_Temperature.ipynb
+jupyter notebook notebooks/Temp_change_prediction.ipynb
