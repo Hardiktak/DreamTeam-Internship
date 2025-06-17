@@ -47,7 +47,7 @@ This project uses 10 years of hourly weather data (2014–2024, 87,000+ records)
 📁 Files
 
 - `/data/_temperature_data.csv` – Raw weather dataset
-- `/notebooks/Task-1_Temperature.ipynb` – Full code and output
+- `/notebooks/Temp_change_prediction.ipynb` – Full code and output
 
 ---
 
