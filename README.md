@@ -4,7 +4,7 @@ This repository contains the projects developed during my internship at DreamTea
 
 📂 Projects
 
-Temperature Prediction Using Historical Weather Data
-A simple and effective model to forecast short-term temperature trends using real-world weather data.
+1. [Temperature Prediction Using Historical Weather Data](./temperature-prediction)
+> A simple and effective model to forecast short-term temperature trends using real-world weather data.
 
 More projects coming soon!
