@@ -1,0 +1,7 @@
+flask
+numpy
+opencv-python
+faiss-cpu
+scikit-learn
+insightface
+tqdm
