@@ -22,4 +22,3 @@ This repository contains the projects developed during my internship at **DreamT
 ---
 
 More projects coming soon — stay tuned! 🎯  
-#Internship #DreamTeamTechnologies #AIProjects #ComputerVision #Python
